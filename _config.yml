@@ -3,7 +3,7 @@ name: Laura Ann Busch
 title: Laura Ann Busch | Ph.D Astronomy/Astrophysics
 description: Astrophysicist researching star formation and astrochemistry, in particular, the molecular complexity of protostellar environments.
 url: "https://lbusch-24.github.io"
-baseurl: "/lbu.github.io"
+baseurl: ""
 email: lbusch@mpe.mpg.de
 resume: https://lbusch-24.github.io/CV.pdf
 social:
